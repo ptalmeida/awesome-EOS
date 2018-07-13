@@ -5,7 +5,7 @@
 
 ## Table of Contents
 
-- [EOS.io](#eos.io)
+- [EOS.io](#eosio)
   - [Introduction](#intruduction)
   - [Official Media](#official-media)
   - [Block One](#block-one-(creators))
