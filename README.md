@@ -48,13 +48,9 @@
 - [EOS.io Developer Portal](https://developers.eos.io/)
 - [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
 
-Go to [table of contents](#table-of-contents)
-
 ### Official Media
 - [Medium](https://medium.com/@eosio) 
 - [Steemit](https://steemit.com/@eosio)
-
-Go to [table of contents](#table-of-contents)
 
 ### Other
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
@@ -64,9 +60,6 @@ Go to [table of contents](#table-of-contents)
   - [EOS Scan](https://eosscan.io/) 
   - [EOS Chart](http://eoschart.com/) 
   - [EOS Price](https://eosprice.io/)
-
-Go to [table of contents](#table-of-contents)
-
 
 ### Block One (creators)
 
@@ -78,8 +71,6 @@ Go to [table of contents](#table-of-contents)
 
 [Careers at Block One](http://careers.block.one/) / [Register for Hackathon](https://eoshackathon.io/)
 
-Go to [table of contents](#table-of-contents)
-
 ## Social
 
 ### Community Forums
@@ -90,13 +81,9 @@ Go to [table of contents](#table-of-contents)
 - [Reddit](https://www.reddit.com/r/eos/)
 - [Discord Channel](http://eos.social/)
 
-Go to [table of contents](#table-of-contents)
-
 ### Developer Forums
 
 - [Reddit](https://www.reddit.com/r/eosDEV/)
-
-Go to [table of contents](#table-of-contents)
 
 ### EOS Telegram Channels
 
@@ -139,9 +126,6 @@ Go to [table of contents](#table-of-contents)
 - **EOS News**
   - [EOS Go Announcements (Telegram summary, etc.)](https://t.me/eosgo_announcements)
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
-  - [Go to table of content](#contents)
-
-Go to [table of contents](#table-of-contents)
 
 ### Meetups
 
@@ -171,15 +155,11 @@ Go to [table of contents](#table-of-contents)
 
 - **Find an EOS Meetup** [MEETUPS](https://www.meetup.com/topics/EOS/)
 
-Go to [table of contents](#table-of-contents)
-
 ## Tools
 
 ### General Puropose
 
 - [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
-
-Go to [table of contents](#table-of-contents)
 
 ### Wallets
 
@@ -190,14 +170,10 @@ Go to [table of contents](#table-of-contents)
 - [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 
-Go to [table of contents](#table-of-contents)
-
 ### Testnets
 
 - [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) / [Telegram](https://t.me/ScholarTestnet)
 - [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) / [Telegram](https://t.me/jungletestnet)
-
-Go to [table of contents](#table-of-contents)
 
 ### Other Tools
 
@@ -205,8 +181,6 @@ Go to [table of contents](#table-of-contents)
 - [Genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
-
-Go to [table of contents](#table-of-contents)
 
 ## Language Support
 
@@ -262,8 +236,6 @@ Go to [table of contents](#table-of-contents)
 
 - [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter
 
-Go to [table of contents](#table-of-contents)
-
 ## Block Producers
 
 ### Block Producer info
@@ -274,8 +246,6 @@ Go to [table of contents](#table-of-contents)
 - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 - [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
 - [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
-
-Go to [table of contents](#table-of-contents)
 
 ### Large Block Producer Candidates
 
@@ -299,12 +269,14 @@ Go to [table of contents](#table-of-contents)
 - [EOS Costa Rica](https://eoscostarica.io/)
 - [EOS Impera](https://eosimpera.io) - Italian BP | 
 
-Go to [table of contents](#table-of-contents)
-
 -----
 
-#### Contributing to Awesome EOS
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/ptalmeida/awesome-EOS/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 Your contributions are always welcome!
 
-See [here](https://github.com/ptalmeida/awesome-EOS/blob/master/CONTRIBUTING.md) for more details.
+## License
+
+This project is licensed under the MIT License - see the LICENSE.md file for details
