@@ -13,13 +13,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EOS.io](#eosio)
   - [Introduction](#intruduction)
   - [Official Media](#official-media)
-  - [Block One](#block-one-(creators))
-  - [Other](#other)
-- [Social](#social)
-  - [Community Forums](#community-forums)
-  - [Developer Forums](#developer-forums)
-  - [EOS Telegram Channels](#eos-telegram-channels)
-  - [Meetups](#meetups)
 - [Tools](#tools)
   - [General Purpose](#general-purpose)
   - [Wallets](#wallets)
@@ -39,122 +32,23 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Block Producers](#block-producers)
   - [Block Producers Info](#block-producers-info)
   - [Block Producers Candidates](#large-block-producers-candidates)
+- [Social](#social)
+  - [Community Forums](#community-forums)
+  - [Developer Forums](#developer-forums)
+  - [EOS Telegram Channels](#eos-telegram-channels)
+  - [Meetups](#meetups)
 
 ## EOS.io
 
 ### Introduction
-- [EOS.io WhitePaper](https://github.com/EOSIO/Documentation)
-- [EOS.io GitHub](https://github.com/eosio) 
-- [EOS.io Website](https://eos.io)
-- [EOS.io Developer Portal](https://developers.eos.io/)
-- [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
+- [EOS.io WhitePaper](https://github.com/EOSIO/Documentation) - Official EOSIO whitepaper.
+- [EOS.io GitHub](https://github.com/eosio) - Official EOSIO GitHub page.
+- [EOS.io Website](https://eos.io) - Official EOSIO website.
+- [EOS.io Developer Portal](https://developers.eos.io/) - Official EOSIO portal with useful information and tutorials for developers.
 
 ### Official Media
-- [Medium](https://medium.com/@eosio) 
-- [Steemit](https://steemit.com/@eosio)
-
-### Other
-- [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
-- [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
-- [DPOS Whitepaper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) / [DPOS Security](https://steemit.com/steem/@dantheman/response-to-cosmos-white-paper-s-claims-on-dpos-security)
-- EOS Distribution tracking 
-  - [EOS Scan](https://eosscan.io/) 
-  - [EOS Chart](http://eoschart.com/) 
-  - [EOS Price](https://eosprice.io/)
-
-### Block One (creators)
-
-- CEO - Brendan Blumer - [LinkedIn](https://www.linkedin.com/in/brendanblumer/) / [Twitter](https://twitter.com/BrendanBlumer?lang=en)
-- CTO - Daniel Larimer - [LinkedIn](https://www.linkedin.com/in/daniel-larimer-0a367089/) / [Twitter](https://twitter.com/bytemaster7) / [Steemit Intro](https://steemit.com/introduceyourself/@dantheman/daniel-larimer--co-founder-of-bitshares-steemit#@carjhb/re-dantheman-daniel-larimer--co-founder-of-bitshares-steemit-20171009t095816036z) / [Historical facts](https://steemit.com/eosio/@xeroc/historical-facts-about-daniel-larimer-and-his-contributions-to-the-blockchain-industry) / [Mission and Philosophy](https://steemit.com/philosophy/@dantheman/why-do-we-fight-to-change-the-world#@splendorhub/re-dantheman-why-do-we-fight-to-change-the-world) / [Reading list](http://bytemaster.github.io/article/2015/01/10/Recommended-Reading/) / [BIO](https://www.steem.center/index.php?title=Dan_Larimer)
-- VP of Product - Thomas B. Cox - [LinkedIn](https://www.linkedin.com/in/thomasbcox/) / [Twitter](https://twitter.com/TBCox)
-- Advisor/Partner - Ian Grigg - [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html) 
-- Senior VP of Operations - David Moss - [LinkedIn](https://www.linkedin.com/in/david-moss-b598/) / [BIO](https://everipedia.org/wiki/david-moss-cto/)
-
-[Careers at Block One](http://careers.block.one/) / [Register for Hackathon](https://eoshackathon.io/)
-
-## Social
-
-### Community Forums
-
-- [EOS Go](https://forums.eosgo.io/)
-- [EOS Talk](https://eostalk.io)
-- [EOS Forum](https://eosforum.org/)
-- [Reddit](https://www.reddit.com/r/eos/)
-- [Discord Channel](http://eos.social/)
-
-### Developer Forums
-
-- [Reddit](https://www.reddit.com/r/eosDEV/)
-
-### EOS Telegram Channels
-
-- **General Chat**
-  - [EOS General chat Chinese](https://t.me/EOSCN)
-  - [EOS General chat English](https://t.me/EOSproject)
-  - [EOS General chat German](http://t.me/EOSDE)
-  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
-  - [EOS General chat Russian](https://t.me/eos_ru)
-  - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
-  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
-  - [EOS General chat Dan's messages only](https://t.me/daneos)
-
-- **Meetup Channels**
-  - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
-  - [EOS Toronto/Waterloo](https://t.me/eosto)
-  - [EOS New York](https://t.me/joinchat/GmULkkp7EyiWjur4TOT9Kg)
-  - [EOS London](https://t.me/EOSLondon)
-  - [EOS Nairobi](https://t.me/eosnairobi)
-  - [EOS Hong Kong](https://t.me/EOSHongKong)
-  - [EOS Berlin](https://t.me/EOSBerlin)
-  - [EOS Lisbon](https://t.me/joinchat/Es2hzhHPRqU-Zc8DqLSb7Q)
-    
-- **Developers**
-  - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
-  - [EOS Index](https://t.me/eosindex)
-  - [EOS Community Test Network](https://t.me/CommunityTestnet)
-  - [EOS Testnet Scholar Network](https://t.me/ScholarTestnet)
-  - [EOS Game Developers](https://t.me/EosGameDevelopers)
-  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
-
-- **Discussion Channels**
-  - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
-  - [EOS Governance](https://t.me/EOSGov)
-  - [EOS Block Producers](https://t.me/EOSPros)
-  - [EOS DAC Creators](https://t.me/EOSDAC)
-  - [EOS Opportunities](https://t.me/eos_opportunities)
-  - [EOS Design](https://t.me/EOSdesign)
-
-- **EOS News**
-  - [EOS Go Announcements (Telegram summary, etc.)](https://t.me/eosgo_announcements)
-  - [EOS Airdrops](https://t.me/EOS_Airdrop)
-
-### Meetups
-
-#### Asia
-  - South Korea
-    - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
-
-#### Europe
-  - Portugal
-    - [EOS Lisbon](https://www.meetup.com/Lisbon-EOS-IO-meetup/)
-  - UK
-    - [EOS London](https://www.meetup.com/EOSLONDON/)
-    - [EOS Berlin](https://www.meetup.com/eosioberlin/)
-
-#### North America
-  - Canada
-    - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
-    - [EOS Calgary](https://www.meetup.com/EOS-Nation-Calgary)
-    - [EOS Denver](https://www.meetup.com/EOSDenver/)
-    - [EOS Ottawa](https://www.meetup.com/EOS-Nation-Ottawa)
-    - [EOS Québec](https://www.meetup.com/EOS-Quebec/)
-    - [EOS Sherbrooke](https://www.meetup.com/EOS-Nation-Sherbrooke)
-    - [EOS Toronto](https://www.meetup.com/EOS-Toronto)
-    - [EOS Waterloo](https://www.meetup.com/EOS-Waterloo/)
-  - United States
-    - [EOS New York](https://www.meetup.com/EOS-New-York)
-
-- **Find an EOS Meetup** [MEETUPS](https://www.meetup.com/topics/EOS/)
+- [Medium](https://medium.com/@eosio) - Official EOSIO Medium page.
+- [Steemit](https://steemit.com/@eosio) - Official EOSIO Medium page.
 
 ## Tools
 
@@ -248,27 +142,136 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
 - [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
 
-### Large Block Producer Candidates
+### Block Producer Candidates
 
-- [EOS Nation](http://eosnation.io) | Building our Future One Block at a Time
-- [EOS New York](https://www.eosnewyork.io/) | Everything a block away
-- [EOS London](https://eos42.io/) | Empowering the Community
-- [eosDAC](http://eosdac.io/) | The Community-Owned EOS Block Producer
-- [EOSIO](http://eosio.se/) | Changing the World one Block at a time
-- [EOSYS](http://eosys.io/) | AT DAWN,  LOOK TO THE EAST
-- [SaltBlock](https://www.saltblock.io/home)
-- [EOS Shenzhen](https://eoshenzhen.io/) | Shenzhen is Asia's Silicon Valley
-- [EOS Union](http://www.eos.ren/) | Make EOS Great, Make Yourself Great
-- [EOS Detroit](http://eosdetroit.com/)
-- [EOS SLC](http://www.eosslc.com/)
-- [Crypto Lions](http://cryptolions.io/)
-- [EOS Green](http://eosgreen.io/)
-- [EOS Oklahoma](https://eosoklahoma.com/)
-- [EOS Nairobi](http://eosnairobi.io/)
-- [EOSoCal](https://eosocal.io)
-- [EOS Cannon](https://eoscannon.io/)
-- [EOS Costa Rica](https://eoscostarica.io/)
-- [EOS Impera](https://eosimpera.io) - Italian BP | 
+#### Africa Based
+- Kenya
+  - [EOS Nairobi](http://eosnairobi.io/)
+- São Tomé and Príncipe
+  - [EOS Cleaner](https://eoscleaner.com/)
+
+#### Asia Based
+- China
+  - [Starteos](https://www.starteos.io/)
+  - [EosAntPool](https://www.eosantpool.com/)
+  - [HelloEOS](https://www.helloeos.com.cn/)
+  - [EOS Shenzhen](https://eoshenzhen.io/)
+  - [EOS Union](http://www.eos.ren/)
+  - [EOS Cannon](https://eoscannon.io/)
+  - [EOSYS](http://eosys.io/)
+- Israel
+  - [LiquidEOS](https://liquideos.com/)
+- Japan
+  - [EOS STORE](https://www.eos.store/)
+- Singapore
+  - [ZB-EOS](http://www.zbeos.com/)
+
+#### Europe Based
+- Romania
+  - [eosDAC](http://eosdac.io/)
+- Sweden
+  - [EOS Sweden](https://eossweden.se/)
+- Ucraine
+  - [Crypto Lions](https://cryptolions.io/)
+- UK
+  - [EOS Authority](https://eosauthority.com/)
+  - [EOS London](https://eos42.io/)
+
+#### North America
+- Canada
+  - [EOS Canada](https://www.eoscanada.com/)
+  - [EOS Nation](http://eosnation.io/)
+- United States
+  - [EOS New York](https://www.eosnewyork.io/)
+  - [EOS Detroit](http://eosdetroit.com/)
+  - [EOS Oklahoma](https://eosoklahoma.com/)
+  - [EOSoCal](https://eosocal.io)
+  - [SaltBlock](https://www.saltblock.io/)
+
+#### South America
+- Argentinha
+  - [EOS Argentina](https://www.eosargentina.io/)
+- Brazil
+  - [EOS Rio](https://eosrio.io/)
+
+## Social
+
+### Community Forums
+
+- [EOS.IO Stack Exchange](https://eosio.stackexchange.com) - Official Stack Exchange.
+- [EOS Go](https://forums.eosgo.io/) - Community forum.
+- [EOS Talk](https://eostalk.io) - Community forum.
+- [EOS Forum](https://eosforum.org/) - Community forum.
+- [Reddit eos](https://www.reddit.com/r/eos/) - Unofficial subreddit.
+- [Reddit eosDEV](https://www.reddit.com/r/eosDEV/) - Unofficial developer subreddit.
+
+### EOS Telegram Channels
+
+- **General Chat**
+  - [EOS General chat Chinese](https://t.me/EOSCN)
+  - [EOS General chat English](https://t.me/EOSproject)
+  - [EOS General chat German](http://t.me/EOSDE)
+  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
+  - [EOS General chat Russian](https://t.me/eos_ru)
+  - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
+  - [EOS General chat Dan's messages only](https://t.me/daneos)
+
+- **Local Channels**
+  - [EOS Ottawa, Calgary & Sherbrooke](https://t.me/EOSNation)
+  - [EOS Toronto & Waterloo](https://t.me/eosto)
+  - [EOS New York](https://t.me/joinchat/GmULkkp7EyiWjur4TOT9Kg)
+  - [EOS London](https://t.me/EOSLondon)
+  - [EOS Nairobi](https://t.me/eosnairobi)
+  - [EOS Hong Kong](https://t.me/EOSHongKong)
+  - [EOS Berlin](https://t.me/EOSBerlin)
+  - [EOS Lisbon](https://t.me/joinchat/Es2hzhHPRqU-Zc8DqLSb7Q)
+    
+- **Developers**
+  - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+  - [EOS Index](https://t.me/eosindex)
+  - [EOS Community Test Network](https://t.me/CommunityTestnet)
+  - [EOS Testnet Scholar Network](https://t.me/ScholarTestnet)
+  - [EOS Game Developers](https://t.me/EosGameDevelopers)
+  - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
+
+- **Discussion Channels**
+  - [EOS Price](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+  - [EOS Governance](https://t.me/EOSGov)
+  - [EOS Block Producers](https://t.me/EOSPros)
+  - [EOS DAC Creators](https://t.me/EOSDAC)
+  - [EOS Opportunities](https://t.me/eos_opportunities)
+  - [EOS Design](https://t.me/EOSdesign)
+
+- **EOS News**
+  - [EOS Go Announcements](https://t.me/eosgo_announcements)
+  - [EOS Airdrops](https://t.me/EOS_Airdrop)
+
+### Meetups
+
+#### Asia
+- South Korea
+  - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
+
+#### Europe
+- Portugal
+  - [EOS Lisbon](https://www.meetup.com/Lisbon-EOS-IO-meetup/)
+- UK
+  - [EOS London](https://www.meetup.com/EOSLONDON/)
+  - [EOS Berlin](https://www.meetup.com/eosioberlin/)
+
+#### North America
+- Canada
+  - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
+  - [EOS Calgary](https://www.meetup.com/EOS-Nation-Calgary)
+  - [EOS Denver](https://www.meetup.com/EOSDenver/)
+  - [EOS Ottawa](https://www.meetup.com/EOS-Nation-Ottawa)
+  - [EOS Québec](https://www.meetup.com/EOS-Quebec/)
+  - [EOS Sherbrooke](https://www.meetup.com/EOS-Nation-Sherbrooke)
+  - [EOS Toronto](https://www.meetup.com/EOS-Toronto)
+  - [EOS Waterloo](https://www.meetup.com/EOS-Waterloo/)
+- United States
+  - [EOS New York](https://www.meetup.com/EOS-New-York)
 
 -----
 
