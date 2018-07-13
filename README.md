@@ -12,8 +12,8 @@
   - [Block One](#block-one-(creators))
   - [Other](#other)
 - [Social](#social)
-  - [Community Forums](#forums)
-  - [Developer Forums](#forums)
+  - [Community Forums](#community-forums)
+  - [Developer Forums](#developer-forums)
   - [EOS Telegram Channels](#eos-telegram-channels)
   - [Meetups](#meetups)
     - [Asia](#asia)
@@ -25,14 +25,16 @@
   - [Testnets](#testnets)
   - [Other](#other-tools)
 - [Projects and DApps](#projects-and-dapps)
+  - [Exchanges](#exchanges)
   - [Education](#education)
   - [Social](#social-dapps)
 - [Language Support](#language-support)
+  - [Elixir](#elixir)
   - [GO](#go)
+  - [Java](#java)
   - [JavaScript](#javascipt)
   - [Python](#python)
   - [Scala](#scala)
-  - [Elixir](#elixir)
 - [Block Producers](#block-producers)
   - [Block Producers Info](#block-producers-info)
   - [Block Producers Candidates](#large-block-producers-candidates)
@@ -199,7 +201,7 @@ Go to [table of contents](#table-of-contents)
 
 ### Other Tools
 
-- [EosCommander](https://github.com/PLACTAL/EosCommander) - Android client for EOSIO DApp developer.
+- [EosCommander](https://github.com/PLACTAL/EosCommander) - Android client for EOSIO DApp developers.
 - [Genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
@@ -208,14 +210,22 @@ Go to [table of contents](#table-of-contents)
 
 ## Language Support
 
+### Elixir
+
+- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS API wrapper for Elixir
+
 ### Go
 
-- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
+- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API wrapper for Golang
+
+### Java
+
+- [EOS Java Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - EOS API wrapper for Java
 
 ### JavaScript
 
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
-- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
+- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS API wrapper for JS
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
@@ -223,31 +233,30 @@ Go to [table of contents](#table-of-contents)
 ### Python
 
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
-- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
+- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS API wrapper for Python 3.6+
 - [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python
 - [EOSFactory](https://github.com/tokenika/eosfactory) - Smart-contract development & testing framework
 
 ### Scala
 
-- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
-
-### Elixir
-
-- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC api wrapper for elixir
+- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS API wrapper for Scala
 
 ## Projects and DApps
 
-- [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
+- [EOS Index](https://eosindex.io), [EOS Apps](https://eosapps.net/), [EOS Projects](https://eosprojects.org/) - Directories of Projects based around EOS
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
 - [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
-- [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 - [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
 
+### Exchanges
+
+- [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS Projects
+
 ### Education
 
-- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - IPFS integration, tokenization and governance
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized Encyclopedia
 
 ### Social DApps
 
