@@ -1,6 +1,6 @@
 
-<h1 align="center"><br>EOS Awesome 😎</h1>
-<h5 align="center"><br>A curated list of awesome [EOS](https://github.com/EOSIO/eos) projects and resources</h5>
+<h1 align="center"><br>Awesome EOS</h1>
+<h5 align="center"><br>A curated list of great EOS projects and resources</h5>
 
 
 ## Table of Contents
@@ -18,12 +18,14 @@
 - [Tools](#tools)
   - [Wallets](#wallets)
   - [Testnets](#testnets)
-  - [Others](#others)
+  - [Other](#other-tools)
 - [Language Support](#language-support)
-- [Projects](#projects)
-- [Block Producers](#block-producers)
-  - [Block Producer info](#block-producer-info)
-  - [Block Producer Candidates](#block-producer-candidates)
+  - [GO](#go)
+  - [JavaScript](#javascipt)
+  - [Python](#python)
+  - [Scala](#scala)
+  - [Elixir](#elixir)
+
 
 ### Introduction
 - [EOS.io WhitePaper](https://github.com/EOSIO/Documentation)
@@ -40,7 +42,10 @@
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
 - [EOS Storage Whitepaper](https://github.com/EOSIO/Documentation/blob/master/EOS.IO%20Storage.pdf)
 - [DPOS Whitepaper](https://steemit.com/dpos/@dantheman/dpos-consensus-algorithm-this-missing-white-paper) / [DPOS Security](https://steemit.com/steem/@dantheman/response-to-cosmos-white-paper-s-claims-on-dpos-security)
-- EOS Distribution tracking [EOS Scan](https://eosscan.io/) / [EOS Chart](http://eoschart.com/) / [EOS Price](https://eosprice.io/)
+- EOS Distribution tracking 
+  - [EOS Scan](https://eosscan.io/) 
+  - [EOS Chart](http://eoschart.com/) 
+  - [EOS Price](https://eosprice.io/)
 - [Careers at Block One](http://careers.block.one/)
 - [Register for Hackathon](https://eoshackathon.io/)
 
@@ -156,7 +161,8 @@
 - [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet)
 - [Go to table of contents](#contents)
 
-### Other
+### Other Tools
+
 - [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
 - [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
@@ -166,9 +172,11 @@
 ## Language Support
 
 ### Go
+
 - [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API Wrapper for Golang
 
 ### JavaScript
+
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
 - [eosjs-api](https://github.com/EOSIO/eosjs) - EOS api wrapper for JS
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
@@ -176,11 +184,13 @@
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
 
 ### Python
+
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python
 
 ### Scala
+
 - [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS api wrapper for Scala
 
 ### Elixir
@@ -202,7 +212,7 @@
 - [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 - [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
-- [Go to table of content](#contents)
+- [Go to table of contents](#contents)
 
 ## Block Producers
 
@@ -215,11 +225,10 @@
   - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 - [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
 - [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
-- [Go to table of content](#contents)
+- [Go to table of contents](#contents)
 
 ### Block Producer Candidates
 
-**Complete EOS Go BP list** [Report #7 April 18](https://busy.org/@eosgo/block-producer-candidate-report-7-april-18-2018)
 - [Block Producer Discussion](https://forums.eosgo.io/categories/block-producer-discussion)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
 - [EOS New York](https://www.eosnewyork.io/) - Everything a block away
@@ -239,7 +248,6 @@
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
 - [EOS Costa Rica](https://eoscostarica.io/)
-
 - [Go to table of contents](#contents)
 
 -----
