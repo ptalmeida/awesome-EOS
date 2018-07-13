@@ -1,5 +1,6 @@
+<h1 align="center">Awesome EOS</h1>
 <p align="center">
-  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1765.png"><b />
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1765.png"></b>
   <h2 align="center">A curated list of awesome EOS projects and resources.</h2>
 </p>
 
