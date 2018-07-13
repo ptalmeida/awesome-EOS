@@ -17,8 +17,8 @@ Your contributions are always welcome!
 ### Links
 - Add the link: `- [example-name](http://example-link.com/) - Short description.`
 
-
 ### Sections
 - Create an issue and listen for feedback before making a pull request.
    - Link to the issue that reached consensus in the pull request.
    - Add the section to the Table of Contents with the proper formatting.
+   - Add the return link to the Table of Contents.

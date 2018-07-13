@@ -27,8 +27,9 @@
   - [Elixir](#elixir)
 - [Block Producers](#block-producers)
   - [Block Producers Info](#block-producers-info)
-  - [Block Producers Candidates](#block-producers-candidates)
+  - [Block Producers Candidates](#large-block-producers-candidates)
 
+## EOS.io
 
 ### Introduction
 - [EOS.io WhitePaper](https://github.com/EOSIO/Documentation)
@@ -37,9 +38,13 @@
 - [EOS.io Developer Portal](https://developers.eos.io/)
 - [EOS: An Introduction - Black Edition](http://iang.org/papers/EOS_An_Introduction-BLACK-EDITION.pdf) - Ian Grigg's Whitepaper
 
+Go to [table of contents](#table-of-contents)
+
 ### Official Media
 - [Medium](https://medium.com/@eosio) 
 - [Steemit](https://steemit.com/@eosio)
+
+Go to [table of contents](#table-of-contents)
 
 ### Other
 - [EOS Technical Whitepaper and RoadMap](https://github.com/EOSIO/Documentation) 
@@ -49,8 +54,9 @@
   - [EOS Scan](https://eosscan.io/) 
   - [EOS Chart](http://eoschart.com/) 
   - [EOS Price](https://eosprice.io/)
-- [Careers at Block One](http://careers.block.one/)
-- [Register for Hackathon](https://eoshackathon.io/)
+
+Go to [table of contents](#table-of-contents)
+
 
 ### Block One (creators)
 
@@ -60,6 +66,10 @@
 - Advisor/Partner - Ian Grigg - [LinkedIn](https://www.linkedin.com/in/ian-grigg-0379/) / [Twitter](https://twitter.com/iang_fc?lang=en) / [BIO](https://mattereum.com/the-team/ian-grigg.html) 
 - Senior VP of Operations - David Moss - [LinkedIn](https://www.linkedin.com/in/david-moss-b598/) / [BIO](https://everipedia.org/wiki/david-moss-cto/)
 
+[Careers at Block One](http://careers.block.one/) / [Register for Hackathon](https://eoshackathon.io/)
+
+Go to [table of contents](#table-of-contents)
+
 ## Social
 
 ### Community Forums
@@ -68,24 +78,27 @@
 - [EOS Talk](https://eostalk.io)
 - [EOS Forum](https://eosforum.org/)
 - [Reddit](https://www.reddit.com/r/eos/)
-- [EOS Talk](https://eostalk.io)
 - [Discord Channel](http://eos.social/)
+
+Go to [table of contents](#table-of-contents)
 
 ### Developer Forums
 
 - [Reddit](https://www.reddit.com/r/eosDEV/)
 
+Go to [table of contents](#table-of-contents)
+
 ### EOS Telegram Channels
 
 - **General Chat**
-  - [EOS General chat ENGLISH](https://t.me/EOSproject)
-  - [EOS General chat Dan's messages only](https://t.me/daneos)
+  - [EOS General chat English](https://t.me/EOSproject)
   - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
   - [EOS General chat Chinese](https://t.me/EOSCN)
   - [EOS General chat Russian](https://t.me/eos_ru)
   - [EOS General chat Vietnamese](http://t.me/eosvietnam)
   - [EOS General chat Deutsche](http://t.me/EOSDE)
   - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [EOS General chat Dan's messages only](https://t.me/daneos)
 
 - **Meetup Channels**
   - [EOS Ottawa/Calgary/Sherbrooke](https://t.me/EOSNation)
@@ -118,6 +131,8 @@
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
   - [Go to table of content](#contents)
 
+Go to [table of contents](#table-of-contents)
+
 ### Meetups
 
 - North America
@@ -144,6 +159,8 @@
 
 - **Find an EOS Meetup** [MEETUPS](https://www.meetup.com/topics/EOS/)
 
+Go to [table of contents](#table-of-contents)
+
 ## Tools
 
 ### Wallets
@@ -154,21 +171,25 @@
 - [Exodus Wallet](https://www.exodus.io/)
 - [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
-- [Go to table of contents](#contents) 
+
+Go to [table of contents](#table-of-contents)
 
 ### Testnets
 
 - [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) / [Telegram](https://t.me/ScholarTestnet)
-- [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet)
-- [Go to table of contents](#contents)
+- [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) / [Telegram](https://t.me/jungletestnet)
+
+Go to [table of contents](#table-of-contents)
 
 ### Other Tools
 
-- [eos-docker](https://github.com/Someguy123/eos-docker) - someguy123's EOS in a Box
-- [genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
+- [Genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
 - [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
+
+Go to [table of contents](#table-of-contents)
+
 
 ## Language Support
 
@@ -213,7 +234,8 @@
 - [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
 - [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
-- [Go to table of contents](#contents)
+
+Go to [table of contents](#table-of-contents)
 
 ## Block Producers
 
@@ -222,13 +244,13 @@
 - [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
 - [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
 - [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
-- [IPFS](ipfs.io)
-  - [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
+- [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
 - [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
 - [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
-- [Go to table of contents](#contents)
 
-### Block Producer Candidates
+Go to [table of contents](#table-of-contents)
+
+### Large Block Producer Candidates
 
 - [Block Producer Discussion](https://forums.eosgo.io/categories/block-producer-discussion)
 - [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
@@ -249,7 +271,8 @@
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
 - [EOS Costa Rica](https://eoscostarica.io/)
-- [Go to table of contents](#contents)
+
+Go to [table of contents](#table-of-contents)
 
 -----
 
@@ -257,4 +280,4 @@
 
 Your contributions are always welcome!
 
-Come [here](https://github.com/ptalmeida/awesome-EOS/CONTRIBUTING.md) for more details.
+See [here](https://github.com/ptalmeida/awesome-EOS/blob/master/CONTRIBUTING.md) for more details.
