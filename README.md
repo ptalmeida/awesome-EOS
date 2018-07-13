@@ -1,7 +1,7 @@
-
-<h1 align="center"><br>Awesome EOS</h1>
-<h5 align="center"><br>A curated list of great EOS projects and resources</h5>
-
+<p align="center">
+  <img src="https://s2.coinmarketcap.com/static/img/coins/200x200/1765.png"><b />
+  <h2 align="center">A curated list of awesome EOS projects and resources.</h2>
+</p>
 
 ## Table of Contents
 
