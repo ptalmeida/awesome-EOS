@@ -15,10 +15,17 @@
   - [Developer Forums](#forums)
   - [EOS Telegram Channels](#eos-telegram-channels)
   - [Meetups](#meetups)
+    - [Asia](#asia)
+    - [Europe](#europe)
+    - [North America](#north-america)
 - [Tools](#tools)
+  - [General Purpose](#general-purpose)
   - [Wallets](#wallets)
   - [Testnets](#testnets)
   - [Other](#other-tools)
+- [Projects and DApps](#projects-and-dapps)
+  - [Education](#education)
+  - [Social](#social-dapps)
 - [Language Support](#language-support)
   - [GO](#go)
   - [JavaScript](#javascipt)
@@ -91,13 +98,13 @@ Go to [table of contents](#table-of-contents)
 ### EOS Telegram Channels
 
 - **General Chat**
-  - [EOS General chat English](https://t.me/EOSproject)
-  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
   - [EOS General chat Chinese](https://t.me/EOSCN)
+  - [EOS General chat English](https://t.me/EOSproject)
+  - [EOS General chat German](http://t.me/EOSDE)
+  - [EOS General chat Korean](https://t.me/EOSIOKorea) / [KOREOS.IO](https://t.me/koreosio)
   - [EOS General chat Russian](https://t.me/eos_ru)
-  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
-  - [EOS General chat Deutsche](http://t.me/EOSDE)
   - [EOS General chat Spanish](https://t.me/joinchat/GrBgI0bhs3ki_jSxv3k9zw)
+  - [EOS General chat Vietnamese](http://t.me/eosvietnam)
   - [EOS General chat Dan's messages only](https://t.me/daneos)
 
 - **Meetup Channels**
@@ -135,7 +142,18 @@ Go to [table of contents](#table-of-contents)
 
 ### Meetups
 
-- North America
+#### Asia
+  - South Korea
+    - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
+
+#### Europe
+  - Portugal
+    - [EOS Lisbon](https://www.meetup.com/Lisbon-EOS-IO-meetup/)
+  - UK
+    - [EOS London](https://www.meetup.com/EOSLONDON/)
+    - [EOS Berlin](https://www.meetup.com/eosioberlin/)
+
+#### North America
   - Canada
     - [EOS Calgary](https://www.meetup.com/EOS_Calgary/)
     - [EOS Calgary](https://www.meetup.com/EOS-Nation-Calgary)
@@ -147,21 +165,18 @@ Go to [table of contents](#table-of-contents)
     - [EOS Waterloo](https://www.meetup.com/EOS-Waterloo/)
   - United States
     - [EOS New York](https://www.meetup.com/EOS-New-York)
-- Asia
-  - South Korea
-    - [EOS Seoul](https://www.meetup.com/EOS-Seoul)
-- Europe
-  - Portugal
-    - [EOS Lisbon](https://www.meetup.com/Lisbon-EOS-IO-meetup/)
-  - UK
-    - [EOS London](https://www.meetup.com/EOSLONDON/)
-    - [EOS Berlin](https://www.meetup.com/eosioberlin/)
 
 - **Find an EOS Meetup** [MEETUPS](https://www.meetup.com/topics/EOS/)
 
 Go to [table of contents](#table-of-contents)
 
 ## Tools
+
+### General Puropose
+
+- [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
+
+Go to [table of contents](#table-of-contents)
 
 ### Wallets
 
@@ -183,13 +198,12 @@ Go to [table of contents](#table-of-contents)
 
 ### Other Tools
 
+- [EosCommander](https://github.com/PLACTAL/EosCommander) - Android client for EOSIO DApp developer.
 - [Genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
 - [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
-- [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
 - [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
 
 Go to [table of contents](#table-of-contents)
-
 
 ## Language Support
 
@@ -210,6 +224,7 @@ Go to [table of contents](#table-of-contents)
 - [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
 - [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS api wrapper for Python 3.6+
 - [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python
+- [EOSFactory](https://github.com/tokenika/eosfactory) - Smart-contract development & testing framework
 
 ### Scala
 
@@ -217,23 +232,25 @@ Go to [table of contents](#table-of-contents)
 
 ### Elixir
 
-- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC Api Wrapper for elixir
+- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS RPC api wrapper for elixir
 
-## Projects
+## Projects and DApps
 
-- [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
-- [DecenTwitter](https://github.com/kesar/decentwitter) - Decent(ralized) Twitter - ZERO!!! Ram Cost
-- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - IPFS integration, tokenization and governance
-- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
 - [EOS Index](https://eosindex.io) - Directory of Projects based around EOS
-- [EOS Countdown](https://eoscountdown.com/) - Until EOS.IO MainNet Launch (Created by Jason Hodges)
 - [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
-- [Block'tivity](https://blocktivity.info/) - The real value of Blockchains
-- [EOS Authority](https://eosauthority.com/) - This tool will also help you make sure that the public key with EOS is also registered correctly.
 - [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
 - [EOS Projects](https://eosprojects.org/)[ / Introduction post](https://steemit.com/eos/@tokenika/introducing-eos-projects-a-directory-of-apps-sites-and-tools-built-by-eos-community) - Directory of Projects based around EOS
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
-- [Eosio.SG Testnet](https://github.com/eosiosg/testnet_monitor) - Eosio.SG testnet monitor
+- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
+- [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
+
+### Education
+
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - IPFS integration, tokenization and governance
+
+### Social DApps
+
+- [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter
 
 Go to [table of contents](#table-of-contents)
 
@@ -252,16 +269,15 @@ Go to [table of contents](#table-of-contents)
 
 ### Large Block Producer Candidates
 
-- [Block Producer Discussion](https://forums.eosgo.io/categories/block-producer-discussion)
-- [EOS Nation](http://eosnation.io) - Building our Future One Block at a Time
-- [EOS New York](https://www.eosnewyork.io/) - Everything a block away
-- [EOS London](https://eos42.io/) - Empowering the Community
-- [eosDAC](http://eosdac.io/) - The Community-Owned EOS Block Producer
-- [EOSIO](http://eosio.se/) - Changing the World one Block at a time
-- [EOSYS](http://eosys.io/) - AT DAWN,  LOOK TO THE EAST
+- [EOS Nation](http://eosnation.io) | Building our Future One Block at a Time
+- [EOS New York](https://www.eosnewyork.io/) | Everything a block away
+- [EOS London](https://eos42.io/) | Empowering the Community
+- [eosDAC](http://eosdac.io/) | The Community-Owned EOS Block Producer
+- [EOSIO](http://eosio.se/) | Changing the World one Block at a time
+- [EOSYS](http://eosys.io/) | AT DAWN,  LOOK TO THE EAST
 - [SaltBlock](https://www.saltblock.io/home)
-- [EOS Shenzhen](https://eoshenzhen.io/) - Shenzhen is Asia's Silicon Valley
-- [EOS UNION](http://www.eos.ren/) - Make EOS Great, Make Yourself Great
+- [EOS Shenzhen](https://eoshenzhen.io/) | Shenzhen is Asia's Silicon Valley
+- [EOS Union](http://www.eos.ren/) | Make EOS Great, Make Yourself Great
 - [EOS Detroit](http://eosdetroit.com/)
 - [EOS SLC](http://www.eosslc.com/)
 - [Crypto Lions](http://cryptolions.io/)
@@ -271,6 +287,7 @@ Go to [table of contents](#table-of-contents)
 - [EOSoCal](https://eosocal.io)
 - [EOS Cannon](https://eoscannon.io/)
 - [EOS Costa Rica](https://eoscostarica.io/)
+- [EOS Impera](https://eosimpera.io) - Italian BP | 
 
 Go to [table of contents](#table-of-contents)
 
