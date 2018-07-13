@@ -1,10 +1,14 @@
-<h1 align="center">Awesome EOS</h1>
-<p align="center">
-  <img src="https://cdn-images-1.medium.com/max/1000/0*S89xcHCf8CoidOth.gif"  height="250" width="250"></b>
-  <h2 align="center">A curated list of awesome EOS projects and resources.</h2>
-</p>
+# Awesome EOS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-## Table of Contents
+[<img src="eos-logo.gif" align="right" width="150">](https://eos.io)
+
+> Curated list of awesome [EOS](https://eos.io) resources and projects
+
+[EOS.IO](https://eos.io/) is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
+
+## Contents
 
 - [EOS.io](#eosio)
   - [Introduction](#intruduction)
@@ -16,9 +20,6 @@
   - [Developer Forums](#developer-forums)
   - [EOS Telegram Channels](#eos-telegram-channels)
   - [Meetups](#meetups)
-    - [Asia](#asia)
-    - [Europe](#europe)
-    - [North America](#north-america)
 - [Tools](#tools)
   - [General Purpose](#general-purpose)
   - [Wallets](#wallets)
@@ -271,12 +272,8 @@
 
 -----
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://github.com/ptalmeida/awesome-EOS/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-Your contributions are always welcome!
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Pedro Almeida](https://github.com/ptalmeida) has waived all copyright and related or neighboring rights to this work.
