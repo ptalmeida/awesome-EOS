@@ -74,8 +74,6 @@
 ### Developer Forums
 
 - [Reddit](https://www.reddit.com/r/eosDEV/)
-- [EOS Talk](https://eostalk.io)
-- [Discord Channel](http://eos.social/)
 
 ### EOS Telegram Channels
 
@@ -158,7 +156,7 @@
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
 - [Go to table of contents](#contents) 
 
-## Testnets
+### Testnets
 
 - [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) / [Telegram](https://t.me/ScholarTestnet)
 - [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet)
