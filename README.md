@@ -25,6 +25,9 @@
   - [Python](#python)
   - [Scala](#scala)
   - [Elixir](#elixir)
+- [Block Producers](#block-producers)
+  - [Block Producers Info](#block-producers-info)
+  - [Block Producers Candidates](#block-producers-candidates)
 
 
 ### Introduction
