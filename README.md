@@ -31,8 +31,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Education](#education)
   - [Social](#social)
 - [Block Producers](#block-producer)
-  - [Block Producers Info](#block-producer-info)
-  - [Block Producers Candidates](#block-producers-candidates)
+  - [Candidates](#block-producers-candidates)
 - [Community](#community)
   - [Forums](#community-forums)
   - [EOS Telegram Channels](#eos-telegram-channels)
@@ -57,16 +56,16 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Clients
 
-- [https://eostoolkit.io](https://eostoolkit.io) - EOS client by GenerEOS.
-- [https://www.myeoskit.com](https://www.myeoskit.com) - Web client by EOS Asia.
-- [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander) - Open souce Android client by PLACTAL.
+- [EosToolKit](https://eostoolkit.io) - EOS client by GenerEOS.
+- [MyEosKit](https://www.myeoskit.com) - Web client by EOS Asia.
+- [EosCommander](https://github.com/plactal/EosCommander) - Open souce Android client by PLACTAL.
 
 ### Wallets
 
 #### Hardware
 
-- [https://bepal.pro/bepal-pro-s](https://bepal.pro/bepal-pro-s) - Hardware wallet by Bepal.
-- [https://cybex.io](https://cybex.io) - Hardware wallet by Cybex.
+- [Bepal Pro S](https://bepal.pro/bepal-pro-s) - Hardware wallet by Bepal.
+- [Cybex](https://cybex.io) - Hardware wallet by Cybex.
 
 #### Desktop
 
@@ -76,18 +75,18 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 #### Mobile
 
-##### Android and IOS
+##### Android & IOS
 
 - [PocketEOS](https://pocketeos.com/) - Open souce wallet by PocketEOS.
-- [Token Pocket](https://www.mytokenpocket.vip) - Wallet by Token Pocket team.
-- [MediaShares Wallet](http://www.medishares.org/wallet/en) - Wallet by ediaShares.
-- [http://halowallet.io](http://halowallet.io) - Chinese wallet.
+- [TokenPocket Wallet](https://www.mytokenpocket.vip) - Wallet by Token Pocket team.
+- [MediaShares Wallet](http://www.medishares.org/wallet/en) - Wallet by MediaShares.
+- [Halowallet](http://halowallet.io) - Chinese wallet.
 - [BitPortal](https://www.bitportal.io/zh-hans) Wallet by BitPortal.
 - [EOStoken](http://eostoken.im) - Wallet by E-Token.
 
-##### IOS only
+##### IOS Only
 
-- [https://meet.one/pomelo](https://meet.one/pomelo) - iOS wallet by MeetOne.
+- [Pomelo](https://meet.one/pomelo) - iOS wallet by MeetOne.
 
 #### Web
 
@@ -135,68 +134,59 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Elixir
 
-- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS API wrapper for Elixir
+- [eosrpc-elixir-wrapper](https://github.com/BeSpiral/eosrpc-elixir-wrapper) - EOS API wrapper for Elixir.
 
 ### Go
 
-- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API wrapper for Golang
+- [eosapi](https://github.com/abourget/eosapi) - EOS' JSON API wrapper for Golang.
 
 ### Java
 
-- [EOS Java Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - EOS API wrapper for Java
+- [EOS Java Wrapper](https://github.com/EOSEssentials/eos-java-rpc-wrapper) - EOS API wrapper for Java.
 
 ### JavaScript
 
 - [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
-- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS API wrapper for JS
-- [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions
-- [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures
-- [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces
+- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS API wrapper for JS.
+- [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions.
+- [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures.
+- [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces.
 
 ### Python
 
-- [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs
-- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS API wrapper for Python 3.6+
-- [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python
-- [EOSFactory](https://github.com/tokenika/eosfactory) - Smart-contract development & testing framework
+- [eosjs_python](https://github.com/EvaCoop/eosjs_python) - Python wrapper on eosjs.
+- [eosapi](https://github.com/Netherdrake/py-eos-api) - EOS API wrapper for Python 3.6+.
+- [pyeos_client](https://github.com/EvaCoop/pyeos_client) - EOS RPC wrapper for Python.
+- [EOSFactory](https://github.com/tokenika/eosfactory) - Smart-contract development & testing framework.
 
 ### Scala
 
-- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS API wrapper for Scala
+- [eos-scala-rpc-api](https://github.com/nsjames/EOS-Scala-RPC-API) - EOS API wrapper for Scala.
 
 ## Projects and DApps
 
-- [EOS Index](https://eosindex.io), [EOS Apps](https://eosapps.net/), [EOS Projects](https://eosprojects.org/) - Directories of Projects based around EOS
-- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens
-- [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer
-- [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices
-- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO
+- [EOS Index](https://eosindex.io), [EOS Apps](https://eosapps.net/), [EOS Projects](https://eosprojects.org/) - Directories of Projects based around EOS.
+- [EOS Drops](https://www.eosdrops.io/) - A Collection of EOS.IO Projects "Air Dropping" Tokens.
+- [EOS Tracker](http://eostracker.io/)[ / Introduction post](https://steemit.com/eos/@kesarito/introducing-eos-tracker-real-time-viewer-for-eos-blockchain) - EOS Block Explorer.
+- [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices.
+- [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO.
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
 
 ### Exchanges
 
-- [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS Projects
+- [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS Projects.
 
 ### Education
 
-- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized Encyclopedia
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized Encyclopedia.
 
 ### Social
 
-- [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter
+- [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter.
 
 ## Block Producers
 
-### Block Producer info
-
-- [Announcement: Grading Criteria for EOS Block Producers in March 7 Report](https://steemit.com/eos/@eosgo/announcement-grading-criteria-for-eos-block-producers-in-march-7-report)
-- [Block Producers Report Feedback](https://docs.google.com/forms/d/e/1FAIpQLScH9O0l2EiQA6DypukKxySKJ7_VAnzdInXVIZ-x9aiJ6ZEPDA/viewform)
-- [Explaining the Role of an EOS Block Producer](https://www.youtube.com/watch?v=YLt5uexD9gg)
-- [IPFS Alpha Demo](https://www.youtube.com/watch?v=8CMxDNuuAiQ)
-- [EOS BIOS Boot Launch Sequence - What BPs need to know](https://www.youtube.com/watch?v=AKaA3F0Nsz0) 
-- [Article - EOS Block Producer Illustrative Revenue Analysis - How will a Block Producer be rewarded?](https://steemit.com/eos/@eos-canada/eos-block-producer-illustrative-revenue-analysis-how-will-a-block-producer-be-rewarded)
-
-### Block Producer Candidates
+### Candidates
 
 #### Africa Based
 - Kenya
