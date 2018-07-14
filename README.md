@@ -14,14 +14,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Introduction](#intruduction)
   - [Official Media](#official-media)
 - [Tools](#tools)
-  - [General Purpose](#general-purpose)
+  - [Account Registration](#account-registration)
+  - [Clients](#clients)
   - [Wallets](#wallets)
-  - [Testnets](#testnets)
-  - [Other](#other-tools)
-- [Projects and DApps](#projects-and-dapps)
-  - [Exchanges](#exchanges)
-  - [Education](#education)
-  - [Social](#social-dapps)
+  - [Node Tools](#node-tools)
+  - [Network Tracking](#network-tracking)
 - [Language Support](#language-support)
   - [Elixir](#elixir)
   - [GO](#go)
@@ -29,12 +26,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [JavaScript](#javascipt)
   - [Python](#python)
   - [Scala](#scala)
-- [Block Producers](#block-producers)
-  - [Block Producers Info](#block-producers-info)
-  - [Block Producers Candidates](#large-block-producers-candidates)
-- [Social](#social)
-  - [Community Forums](#community-forums)
-  - [Developer Forums](#developer-forums)
+- [Projects and DApps](#projects-and-dapps)
+  - [Exchanges](#exchanges)
+  - [Education](#education)
+  - [Social](#social)
+- [Block Producers](#block-producer)
+  - [Block Producers Info](#block-producer-info)
+  - [Block Producers Candidates](#block-producers-candidates)
+- [Community](#community)
+  - [Forums](#community-forums)
   - [EOS Telegram Channels](#eos-telegram-channels)
   - [Meetups](#meetups)
 
@@ -52,30 +52,84 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tools
 
-### General Puropose
+### Account Registration
+- [EOSFlare](http://eosflare.io/account/eosio.names) - EOS account registration website.
 
-- [eos-voter](https://github.com/greymass/eos-voter) - Desktop Light Wallet + Voting Application
+### Clients
+
+- [https://eostoolkit.io](https://eostoolkit.io) - EOS client by GenerEOS.
+- [https://www.myeoskit.com](https://www.myeoskit.com) - Web client by EOS Asia.
+- [https://github.com/plactal/EosCommander](https://github.com/plactal/EosCommander) - Open souce Android client by PLACTAL.
 
 ### Wallets
 
-- [Scatter](http://scatter-eos.com/) - Wallet/Browser extension
-- [MetaMask Chrome extention](https://metamask.io/)
-- [MyEtherWallet (also used for Trezor and Ledger Nano)](https://www.myetherwallet.com/)
-- [Exodus Wallet](https://www.exodus.io/)
-- [Paper Wallet Generator by EOSindex](https://eosindex.io/tools/eos-paper-wallet-generator)
-- [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Web wallet for EOS
+#### Hardware
+
+- [https://bepal.pro/bepal-pro-s](https://bepal.pro/bepal-pro-s) - Hardware wallet by Bepal.
+- [https://cybex.io](https://cybex.io) - Hardware wallet by Cybex.
+
+#### Desktop
+
+- [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Wallet by EOS.IO.
+- [eos-voter](https://github.com/greymass/eos-voter) - Wallet and Voting tool by Greymass.
+- [EOSToken](https://github.com/eostoken/wallet) - Open souce wallet by E-Token.
+
+#### Mobile
+
+##### Android and IOS
+
+- [PocketEOS](https://pocketeos.com/) - Open souce wallet by PocketEOS.
+- [Token Pocket](https://www.mytokenpocket.vip) - Wallet by Token Pocket team.
+- [MediaShares Wallet](http://www.medishares.org/wallet/en) - Wallet by ediaShares.
+- [http://halowallet.io](http://halowallet.io) - Chinese wallet.
+- [BitPortal](https://www.bitportal.io/zh-hans) Wallet by BitPortal.
+- [EOStoken](http://eostoken.im) - Wallet by E-Token.
+
+##### IOS only
+
+- [https://meet.one/pomelo](https://meet.one/pomelo) - iOS wallet by MeetOne.
+
+#### Web
+
+- [Scatter](https://scatter-eos.com) - Chrome extension wallet.
+- [MetaMask](https://metamask.io/) - Chrome extension wallet.
+- [EOSWallet](https://github.com/EOSEssentials/EOSWallet) - Open source wallet by EOSEssentials.
 
 ### Testnets
 
 - [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) / [Telegram](https://t.me/ScholarTestnet)
 - [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) / [Telegram](https://t.me/jungletestnet)
 
-### Other Tools
+### Node Tools
 
-- [EosCommander](https://github.com/PLACTAL/EosCommander) - Android client for EOSIO DApp developers.
-- [Genesis](https://github.com/EOSIO/genesis) - Create an EOS Blockchain Genesis
-- [teos](https://github.com/tokenika/teos) - Alternative CLI to EOS, C++ API library
-- [windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard: watch personal or public nodes and receive alerts if any node fails, chain fork etc.
+- [EOS Helm](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform
+- [BP Playbook](https://github.com/eosdetroit/bp-playbook) - Ansible playbook to dynamically deploy Dockerized nodeos.
+- [PatronEOS](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOS nodes.
+- [Save my EOS RAM](https://github.com/breakstring/savemyeosram) - Free up memory used by issued EOS air tokens.
+- [EOS RAM cost](https://github.com/eoseoul/eos-ramcost) - Adjusting supply of a token and connector balance of bancor during final phase of boot.
+
+###  Network Tracking
+
+#### Account Tracking
+
+- [EOS Authority Alerts](https://eosauthority.com/alerts) - EOS account alert tool.
+- [EOSRescuer](https://peckshield.com/eosrescuer) - Rescuing high-risk EOS accounts,
+
+#### Resource Tracking
+
+- [FeeExplorer](https://eos.feexplorer.io) - RAM price history.
+- [eosrp](https://www.eosrp.io/#calc) - RAM, Bandwidth, CPU Calculator.
+- [Ramcalculator](https://www.marketstackd.io/ramcalculator.html) - RAM Price Calculator.
+- [EOSmeta Statistics](https://eosmeta.io/statistics) - RAM price, voting count, upaid blocks statistics.
+
+#### General Tracking
+
+- [EOS Price Ticker](https://chrome.google.com/webstore/detail/eos-price-ticker/bpckjjmoaolfmfbcpjmahloicelpffim?hl=en) - Browser extension for EOS trading price.
+- [Windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard.
+- [EOSBenchTool](https://github.com/OracleChain/EOSBenchTool), EOS performance benchmark tool
+- [eos-bp-votes.dapptools](http://eos-bp-votes.dapptools.info/#/actions-summary) - EOS mainnet statistics.
+- [bp.eosgo](https://bp.eosgo.io) - Block producer world distribution.
+- [EOS KIT](https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc?hl=en) - Browser extension for EOS news.
 
 ## Language Support
 
@@ -127,7 +181,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized Encyclopedia
 
-### Social DApps
+### Social
 
 - [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter
 
@@ -177,7 +231,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [EOS Authority](https://eosauthority.com/)
   - [EOS London](https://eos42.io/)
 
-#### North America
+#### North America Based
 - Canada
   - [EOS Canada](https://www.eoscanada.com/)
   - [EOS Nation](http://eosnation.io/)
@@ -188,15 +242,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [EOSoCal](https://eosocal.io)
   - [SaltBlock](https://www.saltblock.io/)
 
-#### South America
+#### South America Based
 - Argentinha
   - [EOS Argentina](https://www.eosargentina.io/)
 - Brazil
   - [EOS Rio](https://eosrio.io/)
 
-## Social
+## Community
 
-### Community Forums
+### Forums
 
 - [EOS.IO Stack Exchange](https://eosio.stackexchange.com) - Official Stack Exchange.
 - [EOS Go](https://forums.eosgo.io/) - Community forum.
