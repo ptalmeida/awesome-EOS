@@ -2,7 +2,7 @@
 
 [<img src="eos-logo.gif" align="right" width="150">](https://eos.io)
 
-> Curated list of awesome [EOS](https://eos.io) resources and projects
+> Curated list of awesome [EOS](https://eos.io) resources and projects.
 
 [EOS.IO](https://eos.io/) is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
 
@@ -273,9 +273,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
     
 - **Developers**
   - [EOS Developers](https://t.me/joinchat/EgOVjkPktgfUS3kt14FStw)
+  - [EOS Jobs Market](https://t.me/eos_job)
   - [EOS Index](https://t.me/eosindex)
   - [EOS Community Test Network](https://t.me/CommunityTestnet)
-  - [EOS Testnet Scholar Network](https://t.me/ScholarTestnet)
   - [EOS Game Developers](https://t.me/EosGameDevelopers)
   - [EOS Developers Spanish](https://t.me/joinchat/GrBgI0x-xwphF6oihkrGHg)
 
