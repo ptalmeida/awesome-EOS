@@ -23,7 +23,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Elixir](#elixir)
   - [GO](#go)
   - [Java](#java)
-  - [JavaScript](#javascipt)
+  - [JavaScript](#javascript)
   - [Python](#python)
   - [Scala](#scala)
 - [Projects and DApps](#projects-and-dapps)
@@ -191,7 +191,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 #### Africa Based
 - Kenya
   - [EOS Nairobi](http://eosnairobi.io/)
-- São Tomé and Príncipe
+- São Tomé & Príncipe
   - [EOS Cleaner](https://eoscleaner.com/)
 
 #### Asia Based
