@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Account Registration](#account-registration)
   - [Clients](#clients)
   - [Wallets](#wallets)
+  - [Shell Tools](#shell-tools)
   - [Node Tools](#node-tools)
   - [Network Tracking](#network-tracking)
 - [Language Support](#language-support)
@@ -93,6 +94,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Scatter](https://scatter-eos.com) - Chrome extension wallet.
 - [MetaMask](https://metamask.io/) - Chrome extension wallet.
 - [EOSWallet](https://github.com/EOSEssentials/EOSWallet) - Open source wallet by EOSEssentials.
+
+### Shell Tools
+
+- [Cleos Auto Completion](https://github.com/Hexlant/cleos-auto-completion) - Command auto completion features for EOS cleos.
 
 ### Testnets
 
