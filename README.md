@@ -71,6 +71,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 #### Desktop
 
+- [SimplEOS](https://github.com/eosrio/simpleos) - Wallet by EOSRIO.
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Wallet by EOS.IO.
 - [eos-voter](https://github.com/greymass/eos-voter) - Wallet and Voting tool by Greymass.
 - [EOSToken](https://github.com/eostoken/wallet) - Open souce wallet by E-Token.
