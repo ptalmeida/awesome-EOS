@@ -18,6 +18,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Clients](#clients)
   - [Wallets](#wallets)
   - [Shell Tools](#shell-tools)
+  - [Testnets](#testnets)
   - [Node Tools](#node-tools)
   - [Network Tracking](#network-tracking)
 - [Language Support](#language-support)
