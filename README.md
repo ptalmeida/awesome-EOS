@@ -152,10 +152,9 @@ Eospark.com
 
 ### JavaScript
 
-- [eosjs](https://github.com/EOSIO/eosjs) - General purpose library for the EOS blockchain.
-- [eosjs-api](https://github.com/EOSIO/eosjs) - EOS API wrapper for JS.
+- [eosjs](https://github.com/EOSIO/eosjs) - EOS API wrapper for JS.
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions.
-- [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-ecc) - Serialization library for native data structures.
+- [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer) - Serialization library for native data structures.
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces.
 
 ### Python
