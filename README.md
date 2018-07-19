@@ -183,6 +183,7 @@ Eospark.com
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices.
 - [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO.
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
+- [King of EOS](https://kingofeos.com) - King of the hill game, showcase projects and earn EOS.
 
 ### Exchanges
 
