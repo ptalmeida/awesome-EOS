@@ -61,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EosToolKit](https://eostoolkit.io) - EOS client by GenerEOS.
 - [MyEosKit](https://www.myeoskit.com) - Web client by EOS Asia.
 - [EosCommander](https://github.com/plactal/EosCommander) - Open souce Android client by PLACTAL.
+- [EOSDevHelper](https://github.com/OracleChain/EOSDevHelper) - Open source cross-platform PC client by OracleChain.
 
 ### Wallets
 
