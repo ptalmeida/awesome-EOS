@@ -17,6 +17,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Account Registration](#account-registration)
   - [Clients](#clients)
   - [Wallets](#wallets)
+  - [Shell Tools](#shell-tools)
+  - [Testnets](#testnets)
   - [Node Tools](#node-tools)
   - [Network Tracking](#network-tracking)
 - [Language Support](#language-support)
@@ -59,6 +61,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EosToolKit](https://eostoolkit.io) - EOS client by GenerEOS.
 - [MyEosKit](https://www.myeoskit.com) - Web client by EOS Asia.
 - [EosCommander](https://github.com/plactal/EosCommander) - Open souce Android client by PLACTAL.
+- [EOSDevHelper](https://github.com/OracleChain/EOSDevHelper) - Open source cross-platform PC client by OracleChain.
 
 ### Wallets
 
@@ -69,6 +72,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 #### Desktop
 
+- [SimplEOS](https://github.com/eosrio/simpleos) - Wallet by EOSRIO.
 - [eos-wallet-app](https://github.com/EOSIO/eos-wallet-app) - Wallet by EOS.IO.
 - [eos-voter](https://github.com/greymass/eos-voter) - Wallet and Voting tool by Greymass.
 - [EOSToken](https://github.com/eostoken/wallet) - Open souce wallet by E-Token.
@@ -77,7 +81,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ##### Android & IOS
 
-- [PocketEOS](https://pocketeos.com/) - Open souce wallet by PocketEOS.
+- [PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) - Open souce wallet for Android by PocketEOS.
+- [PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) - Open souce wallet for IOS by PocketEOS.
 - [TokenPocket Wallet](https://www.mytokenpocket.vip) - Wallet by Token Pocket team.
 - [MediaShares Wallet](http://www.medishares.org/wallet/en) - Wallet by MediaShares.
 - [Halowallet](http://halowallet.io) - Chinese wallet.
@@ -93,6 +98,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Scatter](https://scatter-eos.com) - Chrome extension wallet.
 - [MetaMask](https://metamask.io/) - Chrome extension wallet.
 - [EOSWallet](https://github.com/EOSEssentials/EOSWallet) - Open source wallet by EOSEssentials.
+
+### Shell Tools
+
+- [Cleos Auto Completion](https://github.com/Hexlant/cleos-auto-completion) - Command auto completion features for EOS cleos.
 
 ### Testnets
 
@@ -174,6 +183,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EOS Net](https://eosnet.io/) - Global research project of block producer candidates to simulate, test and document best practices.
 - [Chintai](https://www.chintai-eos.io/) - Token Leasing Delegation Marketplace for EOS.IO.
 - [MonsterEOS](https://github.com/leordev/monstereos) - Tamagotchi game, integrates `eosio.token` with account balances, randomization etc.
+- [King of EOS](https://kingofeos.com) - King of the hill game, showcase projects and earn EOS.
 
 ### Exchanges
 
