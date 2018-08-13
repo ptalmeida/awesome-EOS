@@ -4,7 +4,7 @@
 
 > Curated list of awesome [EOS](https://eos.io) resources and projects.
 
-[EOS.IO](https://eos.io/), also referred to as EOSIO and EOS, is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
+[EOSIO](https://eos.io/), also referred EOS, is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
