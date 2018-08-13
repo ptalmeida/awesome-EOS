@@ -123,9 +123,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 #### Block Tracking
 
-Eospark.com
 - [Eospark](Eospark.com), EOS block tracking tool.
-
 
 #### General Tracking
 
