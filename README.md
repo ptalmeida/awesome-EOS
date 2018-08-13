@@ -48,8 +48,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [EOSIO Developer Portal](https://developers.eos.io/) - Official EOSIO portal with useful information and tutorials for developers.
 
 ### Official Media
-- [Medium](https://medium.com/@eosio) - Official EOSIO Medium page.
-- [Steemit](https://steemit.com/@eosio) - Official EOSIO Medium page.
+- [Medium](https://medium.com/@eosio) - Official EOSIO medium page.
+- [Steemit](https://steemit.com/@eosio) - Official EOSIO steemit page.
 
 ## Tools
 
