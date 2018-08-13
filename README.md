@@ -105,12 +105,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Testnets
 
-- [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) / [Telegram](https://t.me/ScholarTestnet)
-- [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) / [Telegram](https://t.me/jungletestnet)
+- [Jungle Testnet](https://github.com/CryptoLions/EOS-Jungle-Testnet) - Popular open source testnet.
+- [EOS.IO Scholar Testnet](https://steemit.com/eos/@eosnation/eos-io-scholar-testnet) - Popular testnet.
 
 ### Node Tools
 
-- [EOS Helm](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform
+- [EOS Helm](https://github.com/activeeos/eos-helm) - Kubernetes Helm charts for the EOS smart contracts platform.
 - [BP Playbook](https://github.com/eosdetroit/bp-playbook) - Ansible playbook to dynamically deploy Dockerized nodeos.
 - [PatronEOS](https://github.com/EOSIO/patroneos) - RPC Checkpoint for EOS nodes.
 - [Save my EOS RAM](https://github.com/breakstring/savemyeosram) - Free up memory used by issued EOS air tokens.
@@ -121,24 +121,24 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 #### Account Tracking
 
 - [EOS Authority Alerts](https://eosauthority.com/alerts) - EOS account alert tool.
-- [EOSRescuer](https://peckshield.com/eosrescuer) - Rescuing high-risk EOS accounts,
+- [EOSRescuer](https://peckshield.com/eosrescuer) - Service for rescuing high-risk EOS accounts.
 
 #### Resource Tracking
 
 - [FeeExplorer](https://eos.feexplorer.io) - RAM price history.
-- [eosrp](https://www.eosrp.io/#calc) - RAM, Bandwidth, CPU Calculator.
+- [eosrp](https://www.eosrp.io/#calc) - RAM, Bandwidth and CPU Calculator.
 - [Ramcalculator](https://www.marketstackd.io/ramcalculator.html) - RAM Price Calculator.
 - [EOSmeta Statistics](https://eosmeta.io/statistics) - RAM price, voting count, upaid blocks statistics.
 
 #### Block Tracking
 
-- [Eospark](Eospark.com), EOS block tracking tool.
+- [Eospark](Eospark.com) - EOS block tracking tool.
 
 #### General Tracking
 
 - [EOS Price Ticker](https://chrome.google.com/webstore/detail/eos-price-ticker/bpckjjmoaolfmfbcpjmahloicelpffim?hl=en) - Browser extension for EOS trading price.
 - [Windshield](https://github.com/cypherglassdotcom/windshield) - EOS Nodes Dashboard.
-- [EOSBenchTool](https://github.com/OracleChain/EOSBenchTool), EOS performance benchmark tool.
+- [EOSBenchTool](https://github.com/OracleChain/EOSBenchTool) - EOS performance benchmark tool.
 - [eos-bp-votes.dapptools](http://eos-bp-votes.dapptools.info/#/actions-summary) - EOS mainnet statistics.
 - [bp.eosgo](https://bp.eosgo.io) - Block producer world distribution.
 - [EOS KIT](https://chrome.google.com/webstore/detail/eos-kit/hiaddgihenoiohaoelnclcbjgjjflfhc?hl=en) - Browser extension for EOS news.
@@ -187,15 +187,15 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Exchanges
 
-- [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS Projects.
+- [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS projects.
 
 ### Education
 
-- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized Encyclopedia.
+- [Everipedia](https://github.com/EveripediaNetwork/Everipedia) - Decentralized encyclopedia.
 
 ### Social
 
-- [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized Twitter.
+- [DecenTwitter](https://github.com/kesar/decentwitter) - Decentralized twitter.
 
 ## Block Producers
 
@@ -255,7 +255,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Forums
 
-- [EOS.IO Stack Exchange](https://eosio.stackexchange.com) - Official Stack Exchange.
+- [EOS.IO Stack Exchange](https://eosio.stackexchange.com) - Official stack exchange.
 - [EOS Go](https://forums.eosgo.io/) - Community forum.
 - [EOS Talk](https://eostalk.io) - Community forum.
 - [EOS Forum](https://eosforum.org/) - Community forum.
@@ -303,6 +303,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - **EOS News**
   - [EOS Go Announcements](https://t.me/eosgo_announcements)
   - [EOS Airdrops](https://t.me/EOS_Airdrop)
+
+- **EOS Testnets**
+  - [Jungle Testnet](https://t.me/jungletestnet)
+  - [EOS.IO Scholar Testnet](https://t.me/ScholarTestnet)
 
 ### Meetups
 
