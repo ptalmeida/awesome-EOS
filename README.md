@@ -4,13 +4,13 @@
 
 > Curated list of awesome [EOS](https://eos.io) resources and projects.
 
-[EOS.IO](https://eos.io/) is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
+[EOS.IO](https://eos.io/), also referred to as EOSIO and EOS, is software that introduces a blockchain architecture designed to enable vertical and horizontal scaling of decentralized applications. 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
-- [EOS.io](#eosio)
+- [EOSIO](#eosio)
   - [Introduction](#intruduction)
   - [Official Media](#official-media)
 - [Tools](#tools)
@@ -39,13 +39,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [EOS Telegram Channels](#eos-telegram-channels)
   - [Meetups](#meetups)
 
-## EOS.io
+## EOSIO
 
 ### Introduction
-- [EOS.io WhitePaper](https://github.com/EOSIO/Documentation) - Official EOSIO whitepaper.
-- [EOS.io GitHub](https://github.com/eosio) - Official EOSIO GitHub page.
-- [EOS.io Website](https://eos.io) - Official EOSIO website.
-- [EOS.io Developer Portal](https://developers.eos.io/) - Official EOSIO portal with useful information and tutorials for developers.
+- [EOSIO WhitePaper](https://github.com/EOSIO/Documentation) - Official EOSIO whitepaper.
+- [EOSIO GitHub](https://github.com/eosio) - Official EOSIO GitHub page.
+- [EOSIO Website](https://eos.io) - Official EOSIO website.
+- [EOSIO Developer Portal](https://developers.eos.io/) - Official EOSIO portal with useful information and tutorials for developers.
 
 ### Official Media
 - [Medium](https://medium.com/@eosio) - Official EOSIO Medium page.
