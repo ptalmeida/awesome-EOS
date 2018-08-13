@@ -81,7 +81,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ##### Android & IOS
 
-- [PocketEOS](https://pocketeos.com/) - Open souce wallet by PocketEOS.
+- [PocketEOS-Android](https://github.com/OracleChain/PocketEOS-Android) - Open souce wallet for Android by PocketEOS.
+- [PocketEOS-IOS](https://github.com/OracleChain/PocketEOS-IOS) - Open souce wallet for IOS by PocketEOS.
 - [TokenPocket Wallet](https://www.mytokenpocket.vip) - Wallet by Token Pocket team.
 - [MediaShares Wallet](http://www.medishares.org/wallet/en) - Wallet by MediaShares.
 - [Halowallet](http://halowallet.io) - Chinese wallet.
