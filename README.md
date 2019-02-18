@@ -163,6 +163,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc) - Elliptic curve cryptography functions.
 - [eosjs-fcbuffer](https://github.com/EOSIO/eosjs-fcbuffer) - Serialization library for native data structures.
 - [eosjs-json](https://github.com/EOSIO/eosjs-json) - JSON schemas for EOS interfaces.
+- [infeos](https://github.com/infiniteXLabs/infeos) - npm framework for development, building, deploying and unit testing EOSIO dApps
 
 ### Python
 
