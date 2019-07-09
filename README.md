@@ -189,6 +189,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ### Exchanges
 
 - [Chaince](https://chaince.com/trade/iqeos) - Asset trading platform focusing on EOS projects.
+- [EOSSWAP](https://eosswap.io) - Atomic EOS tokens swaps.
+
 
 ### Education
 
