@@ -1,3 +1,6 @@
+
+## Attention! This repo has been deprecated
+
 # Awesome EOS [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [<img src="eos-logo.gif" align="right" width="150">](https://eos.io)
